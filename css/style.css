@@ -48,8 +48,6 @@ a{
     transform: translateX(-50%);
     opacity: 1;
   }
-  /*@media (max-width: 500px) {}
-  */
     .nav-links{
         display: grid;
         grid-template-columns: 5em 5em;
